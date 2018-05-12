@@ -1,0 +1,41 @@
+_repo: Peeps-at-PeopleBeing-Certain-Papers-from-the-Writings-of-Anne-Warrington-Witherup_39945
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Penfield, Edward
+    birthdate: 1866
+    deathdate: 1925
+    gutenberg_agent_id: '40322'
+    url: http://www.gutenberg.org/2009/agents/40322
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bangs, John Kendrick
+    birthdate: 1862
+    deathdate: 1922
+    gutenberg_agent_id: '979'
+    url: http://www.gutenberg.org/2009/agents/979
+    wikipedia: http://en.wikipedia.org/wiki/John_Kendrick_Bangs
+description: ''
+gutenberg_issued: '2012-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39945'
+  lccn: '98001923'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American wit and humor'
+- !lcsh 'Biography -- Humor'
+tableOfContents: Nansen -- Mr. Hall Caine -- Emperor William -- Mr. Alfred Austin
+  -- Andrew Lang -- Zola -- Sir Henry Irving -- Ian Maclaren -- Rudyard Kipling --
+  The De Reszkes -- Henryk Sienkiewicz -- General Weyler.
+title: 'Peeps at People
+
+  Being Certain Papers from the Writings of Anne Warrington Witherup'
+url: http://www.gutenberg.org/ebooks/39945
