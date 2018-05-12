@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/979
     wikipedia: http://en.wikipedia.org/wiki/John_Kendrick_Bangs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39945#Peeps-at-PeopleBeing-Certain-Papers-from-the-Writings-of-Anne-Warrington-Witherup
 gutenberg_issued: '2012-06-08'
 gutenberg_type: Text
 identifiers:
